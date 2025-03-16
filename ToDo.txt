@@ -1,0 +1,5 @@
+- Fix memory tool problem
+
+1. Make a multi-agent framework to write comic sketches (openai agents and moya for framework)
+2. Make tool to create agents
+4. Add feature to get structured data as output

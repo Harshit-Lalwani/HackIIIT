@@ -1,0 +1,4 @@
+1. For a lot of classes, i had to go through classes in the codebase individually to write syntactically correct code. Even copilot struggled at places. This could be improved with better documentation.
+2. Rigid agents. Dont follow instructions unless very specific
+2. Openai's structured output functionality is godsent. Need to add support for it. While it is still in beta in openai's own api, it pretty much works for most simple cases i tried earlier. 
+3. How to find optimal prompt for next agent? Summary isnt the best thing for a sketch
